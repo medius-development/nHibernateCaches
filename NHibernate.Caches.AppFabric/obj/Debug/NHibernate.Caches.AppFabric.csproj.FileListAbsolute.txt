@@ -1,0 +1,47 @@
+C:\Projects\MainBranch\Mediusflow\NHibernate.Caches.AppFabric\bin\Debug\NHibernate.Caches.AppFabric.dll
+C:\Projects\MainBranch\Mediusflow\NHibernate.Caches.AppFabric\bin\Debug\NHibernate.Caches.AppFabric.pdb
+C:\Projects\MainBranch\Mediusflow\NHibernate.Caches.AppFabric\bin\Debug\Iesi.Collections.dll
+C:\Projects\MainBranch\Mediusflow\NHibernate.Caches.AppFabric\bin\Debug\Microsoft.ApplicationServer.Caching.Client.dll
+C:\Projects\MainBranch\Mediusflow\NHibernate.Caches.AppFabric\bin\Debug\Microsoft.ApplicationServer.Caching.Core.dll
+C:\Projects\MainBranch\Mediusflow\NHibernate.Caches.AppFabric\bin\Debug\NHibernate.dll
+C:\Projects\MainBranch\Mediusflow\NHibernate.Caches.AppFabric\bin\Debug\Microsoft.WindowsFabric.Data.Common.dll
+C:\Projects\MainBranch\Mediusflow\NHibernate.Caches.AppFabric\bin\Debug\Microsoft.WindowsFabric.Common.dll
+C:\Projects\MainBranch\Mediusflow\NHibernate.Caches.AppFabric\bin\Debug\Antlr3.Runtime.dll
+C:\Projects\MainBranch\Mediusflow\NHibernate.Caches.AppFabric\bin\Debug\Remotion.Linq.dll
+C:\Projects\MainBranch\Mediusflow\NHibernate.Caches.AppFabric\bin\Debug\Microsoft.ApplicationServer.Caching.Client.xml
+C:\Projects\MainBranch\Mediusflow\NHibernate.Caches.AppFabric\bin\Debug\Microsoft.ApplicationServer.Caching.Core.xml
+C:\Projects\MainBranch\Mediusflow\NHibernate.Caches.AppFabric\obj\Debug\NHibernate.Caches.AppFabric.dll
+C:\Projects\MainBranch\Mediusflow\NHibernate.Caches.AppFabric\obj\Debug\NHibernate.Caches.AppFabric.pdb
+C:\Projects\MainBranch\Mediusflow\NHibernate.Caches.AppFabric\obj\Debug\NHibernate.Caches.AppFabric.csprojResolveAssemblyReference.cache
+C:\Projects\bin\Debug\NHibernate.Caches.AppFabric.dll
+C:\Projects\bin\Debug\NHibernate.Caches.AppFabric.pdb
+C:\bin\Debug\NHibernate.Caches.AppFabric.dll
+C:\bin\Debug\NHibernate.Caches.AppFabric.pdb
+C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.AppFabric\obj\Debug\NHibernate.Caches.AppFabric.csprojResolveAssemblyReference.cache
+C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.AppFabric\obj\Debug\NHibernate.Caches.AppFabric.dll
+C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.AppFabric\obj\Debug\NHibernate.Caches.AppFabric.pdb
+C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.AppFabric\bin\Debug\NHibernate.Caches.AppFabric.dll
+C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.AppFabric\bin\Debug\NHibernate.Caches.AppFabric.pdb
+C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.AppFabric\bin\Debug\Iesi.Collections.dll
+C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.AppFabric\bin\Debug\Microsoft.ApplicationServer.Caching.Client.dll
+C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.AppFabric\bin\Debug\Microsoft.ApplicationServer.Caching.Core.dll
+C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.AppFabric\bin\Debug\NHibernate.dll
+C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.AppFabric\bin\Debug\Antlr3.Runtime.dll
+C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.AppFabric\bin\Debug\Remotion.Linq.dll
+C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.AppFabric\bin\Debug\Microsoft.WindowsFabric.Data.Common.dll
+C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.AppFabric\bin\Debug\Microsoft.WindowsFabric.Common.dll
+C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.AppFabric\bin\Debug\NHibernate.pdb
+C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.AppFabric\bin\Debug\Microsoft.ApplicationServer.Caching.Client.xml
+C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.AppFabric\bin\Debug\Microsoft.ApplicationServer.Caching.Core.xml
+C:\Projects\nHibernateCaches\NHibernate.Caches.AppFabric\bin\Debug\NHibernate.Caches.AppFabric.dll
+C:\Projects\nHibernateCaches\NHibernate.Caches.AppFabric\bin\Debug\NHibernate.Caches.AppFabric.pdb
+C:\Projects\nHibernateCaches\NHibernate.Caches.AppFabric\bin\Debug\Iesi.Collections.dll
+C:\Projects\nHibernateCaches\NHibernate.Caches.AppFabric\bin\Debug\Microsoft.ApplicationServer.Caching.Client.dll
+C:\Projects\nHibernateCaches\NHibernate.Caches.AppFabric\bin\Debug\Microsoft.ApplicationServer.Caching.Core.dll
+C:\Projects\nHibernateCaches\NHibernate.Caches.AppFabric\bin\Debug\NHibernate.dll
+C:\Projects\nHibernateCaches\NHibernate.Caches.AppFabric\bin\Debug\Microsoft.WindowsFabric.Data.Common.dll
+C:\Projects\nHibernateCaches\NHibernate.Caches.AppFabric\bin\Debug\Microsoft.WindowsFabric.Common.dll
+C:\Projects\nHibernateCaches\NHibernate.Caches.AppFabric\bin\Debug\Microsoft.ApplicationServer.Caching.Client.xml
+C:\Projects\nHibernateCaches\NHibernate.Caches.AppFabric\bin\Debug\Microsoft.ApplicationServer.Caching.Core.xml
+C:\Projects\nHibernateCaches\NHibernate.Caches.AppFabric\obj\Debug\NHibernate.Caches.AppFabric.dll
+C:\Projects\nHibernateCaches\NHibernate.Caches.AppFabric\obj\Debug\NHibernate.Caches.AppFabric.pdb
