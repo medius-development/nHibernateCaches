@@ -1,13 +1,3 @@
-C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.SysCache\bin\Debug\NHibernate.Caches.SysCache.dll
-C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.SysCache\bin\Debug\NHibernate.Caches.SysCache.pdb
-C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.SysCache\bin\Debug\NHibernate.dll
-C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.SysCache\bin\Debug\Antlr3.Runtime.dll
-C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.SysCache\bin\Debug\Remotion.Linq.dll
-C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.SysCache\bin\Debug\Iesi.Collections.dll
-C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.SysCache\bin\Debug\NHibernate.pdb
-C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.SysCache\obj\Debug\NHibernate.Caches.SysCache.csprojResolveAssemblyReference.cache
-C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.SysCache\obj\Debug\NHibernate.Caches.SysCache.dll
-C:\Projects\MainBranch\External Tools\MediusNHibernate\NHibernate.Caches.SysCache\obj\Debug\NHibernate.Caches.SysCache.pdb
 C:\Projects\nHibernateCaches\NHibernate.Caches.SysCache\bin\Debug\NHibernate.Caches.SysCache.dll
 C:\Projects\nHibernateCaches\NHibernate.Caches.SysCache\bin\Debug\NHibernate.Caches.SysCache.pdb
 C:\Projects\nHibernateCaches\NHibernate.Caches.SysCache\bin\Debug\NHibernate.dll

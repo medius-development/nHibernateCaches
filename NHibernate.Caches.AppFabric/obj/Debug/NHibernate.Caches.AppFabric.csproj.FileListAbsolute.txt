@@ -43,5 +43,6 @@ C:\Projects\nHibernateCaches\NHibernate.Caches.AppFabric\bin\Debug\Microsoft.Win
 C:\Projects\nHibernateCaches\NHibernate.Caches.AppFabric\bin\Debug\Microsoft.WindowsFabric.Common.dll
 C:\Projects\nHibernateCaches\NHibernate.Caches.AppFabric\bin\Debug\Microsoft.ApplicationServer.Caching.Client.xml
 C:\Projects\nHibernateCaches\NHibernate.Caches.AppFabric\bin\Debug\Microsoft.ApplicationServer.Caching.Core.xml
+C:\Projects\nHibernateCaches\NHibernate.Caches.AppFabric\obj\Debug\NHibernate.Caches.AppFabric.csprojResolveAssemblyReference.cache
 C:\Projects\nHibernateCaches\NHibernate.Caches.AppFabric\obj\Debug\NHibernate.Caches.AppFabric.dll
 C:\Projects\nHibernateCaches\NHibernate.Caches.AppFabric\obj\Debug\NHibernate.Caches.AppFabric.pdb
