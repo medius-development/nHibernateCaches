@@ -14,3 +14,8 @@ using System.Security;
 //[assembly: AssemblyKeyFileAttribute("../../src/NHibernate.snk")]
 [assembly: AssemblyDelaySignAttribute(false)]
 //[assembly: AllowPartiallyTrustedCallers()]
+/*
+ * File was modified by Medius company 
+ * Date of modification: 20.02.2014
+ */
+
